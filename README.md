@@ -1,2 +1,2 @@
-# Swarm-Intelligence-
+# Swarm-Intelligence
 Swarm Intelligence Algorithm
