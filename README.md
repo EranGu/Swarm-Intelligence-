@@ -1,5 +1,8 @@
-# Swarm-Intelligence
+# Meta-heuristic algorithm
 Swarm Intelligence Algorithm
-MSIGTO(Multi-Strategy Improved Gorilla Troops Optimizer)\n
-used 4 strategy \n
+
+MSIGTO(Multi-Strategy Improved Gorilla Troops Optimizer)
+
+used 3 strategy :
+
 Latin Hyper Sample;Levy Flight;Cauchy Inverse Cumulative Distribution Operator
